@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: proxy-go
+  annotations:
+    github.com/project-slug: iamc1oud/proxy-go
+spec:
+  type: other
+  lifecycle: unknown
+  owner: guests
