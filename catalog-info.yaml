@@ -4,6 +4,7 @@ metadata:
   name: proxy-go
   annotations:
     github.com/project-slug: iamc1oud/proxy-go
+    backstage.io/techdocs-ref: value
 spec:
   type: other
   lifecycle: unknown
